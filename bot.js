@@ -98,7 +98,7 @@
     var loadChat = function (cb) {
         if (!cb) cb = function () {
         };
-        $.get("https://rawgit.com/kurium/source/master/lang/pt-BR.json", function (json) {
+        $.get("https://rawgit.com/DSVILLA/Plug2/master/pt-BR.json", function (json) {
             var link = basicBot.chatLink;
             if (json !== null && typeof json !== "undefined") {
                 langIndex = json;
@@ -237,20 +237,20 @@
     var basicBot = {
         version: "1",
         status: false,
-        name: "Rock Wins Bot",
+        name: "Bot Boy 2.0",
         loggedInID: null,
-        scriptLink: "https://rawgit.com/Kenan-plugdj/RWplug/master/bot.js",
+        scriptLink: "https://rawgit.com/DSVILLA/Plug2/master/bot.js",
         cmdLink: "https://git.io/viPW3",
-        chatLink: "https://rawgit.com/Kenan-plugdj/RWplug/master/pt-BR.json",
+        chatLink: "https://rawgit.com/DSVILLA/Plug2/master/pt-BR.json",
         chat: null,
         loadChat: loadChat,
         retrieveSettings: retrieveSettings,
         retrieveFromStorage: retrieveFromStorage,
         settings: {
-            botName: "Rock Wins Bot",
+            botName: "Bot Boy 2.0",
             language: "portuguese",
-            chatLink: "https://rawgit.com/Kenan-plugdj/RWplug/master/pt-BR.json",
-            scriptLink: "https://rawgit.com/Kenan-plugdj/RWplug/master/bot.js",
+            chatLink: "https://rawgit.com/DSVILLA/Plug2/master/pt-BR.json",
+            scriptLink: "https://rawgit.com/DSVILLA/Plug2/master/bot.js",
             roomLock: false, // Requires an extension to re-load the script
             startupCap: 1, // 1-200
             startupVolume: 100, // 0-100
@@ -301,10 +301,10 @@
             etaRestriction: false,
             welcome: true,
             opLink: null,
-            rulesLink:"http://prnt.sc/c16kj6",
-            regrasLink: "http://prnt.sc/c152aa",
-            themeLink: "Rock'n'roll, todos os subgêneros do rock",
-            fbLink: "http://bit.ly/2cxnE6a",
+            rulesLink:"Colocar link do site",
+            regrasLink: "Colocar link do site",
+            themeLink: "Só os chegados, todos os subgêneros de música",
+            fbLink: "https://goo.gl/xZv9YP",
             youtubeLink: null,
             website: null,
             intervalMessages: ["@djs Vejam as regras digitando !regras, see the rules typing !rules.","Entre para o nosso grupo no Facebook http://bit.ly/2cxnE6a","Tema: Rock'n'roll, todos os subgêneros do rock.","Veja os comandos do bot digitando !cmds.","Digite !autowoot e instale um dos autowoots, veja a costumização da sala e outras vantagens http://i.imgur.com/kd0V2VX.png.","Temos um grupo da sala no Whatsapp, você pode entrar usando o link de convite que está na descrição da sala ou no nosso grupo do facebook."],
@@ -312,9 +312,9 @@
             songstats: false,
             commandLiteral: "!",
             blacklists: {
-                NSFW: "https://rawgit.com/Kenan-plugdj/RWplug/master/NSFWlist.json",
-                OP: "https://rawgit.com/Kenan-plugdj/RWplug/master/OPlist.json",
-                BANNED: "https://rawgit.com/Kenan-plugdj/RWplug/master/BANNEDlist.json"
+                NSFW: "https://rawgit.com/DSVILLA/Plug2/master/NSFWlist.json",
+                OP: "https://rawgit.com/DSVILLA/Plug2/master/OPlist.json",
+                BANNED: "https://rawgit.com/DSVILLA/Plug2/master/BANNEDlist.json"
             }
         },
         room: {
