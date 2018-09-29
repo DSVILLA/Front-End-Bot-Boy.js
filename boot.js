@@ -240,7 +240,7 @@
         name: "Bot Boy 2.0",
         loggedInID: null,
         scriptLink: "https://rawgit.com/DSVILLA/Plug2/master/boot.js",
-        cmdLink: "https://git.io/viPW3",
+        cmdLink: "https://goo.gl/BwYsVo",
         chatLink: "https://rawgit.com/DSVILLA/Plug2/master/pt-BR.json",
         chat: null,
         loadChat: loadChat,
