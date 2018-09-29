@@ -307,7 +307,7 @@
             fbLink: "https://goo.gl/NNYAYx",
             youtubeLink: null,
             website: null,
-            intervalMessages: ["@djs Vejam as regras digitando !regras, see the rules typing !rules.","Entre em nossa page no Facebook https://goo.gl/NNYAYx","Tema: Livre, todos os subgêneros.","Veja os comandos do bot digitando !cmds.","Digite !autowoot e instale um dos autowoots, veja a costumização da sala e outras vantagens em https://rcs.radiant.dj/ .","],
+            intervalMessages: ["@djs Vejam as regras digitando !regras, see the rules typing !rules.", "Entre em nossa page no Facebook https://goo.gl/NNYAYx","Tema: Livre, todos os subgêneros.","Veja os comandos do bot digitando !cmds.","Digite !autowoot e instale um dos autowoots, veja a costumização da sala e outras vantagens em https://rcs.radiant.dj/ .",],
             messageInterval: 3,
             songstats: false,
             commandLiteral: "!",
