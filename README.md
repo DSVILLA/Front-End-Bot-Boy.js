@@ -25,8 +25,8 @@ Email : [hi [at] benzi [dot] io](mailto:hi@benzi.io)
 
  - [Yemasthui](https://github.com/Yemasthui)  __(Criador)__
  
- - [Kenan](https://github.com/Kenan-plugdj) __(Modificador)__ 
-[Perfil PlugDj](https://plug.dj/@/kenan)
+ - [MarcosXJ6](https://github.com/DSVILLA) __(Modificador)__ 
+[Perfil PlugDj](https://plug.dj/@/marcosxj6)
 
 Créditos
 --------
