@@ -1,4 +1,4 @@
-# Rock Wins Bot
+# Bot Boy 2.0
 O Projeto RWplug foi elaborado à ser utilizado na Sala Rock Wins no site do plug.dj
 * Visite a nossa comunidade, aprecie uma boa música -> https://plug.dj/s%C3%B3-os-chegados
 
