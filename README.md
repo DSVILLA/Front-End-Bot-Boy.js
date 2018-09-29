@@ -2,7 +2,7 @@
 O Projeto Plug2 foi elaborado à ser utilizado na Sala Só os chegados no site do plug.dj
 * Visite a nossa comunidade, aprecie uma boa música -> https://plug.dj/só-os-chegados
 
-[![facebook page](https://img.shields.io/badge/facebook-group-3b5998.svg?style=flat)](https://goo.gl/NNYAYx)
+[![facebook page](https://img.shields.io/badge/facebook-page-3b5998.svg?style=flat)](https://goo.gl/NNYAYx)
 
 Como usar
 ------
