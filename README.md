@@ -6,12 +6,12 @@ O Projeto Plug2 foi elaborado à ser utilizado na Sala Só os chegados no site d
 
 Como usar
 ------
-Favorite o seguinte código no seu navegador. Para rodar o bot clique no favorito na aba do Plug Dj. `javascript:(function(){$.getScript('https://rawgit.com/DSVILLA/Plug2/master/bot.js');})();` 
+Favorite o seguinte código no seu navegador. Para rodar o bot clique no favorito na aba do Plug Dj. `javascript:(function(){$.getScript('https://rawgit.com/DSVILLA/Plug2/master/boot.js');})();` 
 
 
 Importante:
 ------
-Se isso não funcionar, vá para https://rawgit.com/DSVILLA/Plug2/master/bot.js copie e cole todo o conteúdo no seu console (acessível no chrome pressionando F12) na sala do Plug Dj.
+Se isso não funcionar, vá para https://rawgit.com/DSVILLA/Plug2/master/boot.js copie e cole todo o conteúdo no seu console (acessível no chrome pressionando F12) na sala do Plug Dj.
 
 
 Comandos
