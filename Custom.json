@@ -1,8 +1,8 @@
 {
-   "room": "Rock Wins",
-   "author": "Kenan",
+   "room": "Só os chegados",
+   "author": "MarcosXJ6",
    "icon": null,
-   "css": "https://rawgit.com/Kenan-plugdj/RWplug/master/rw.css",
+   "css": "https://rawgit.com/DSVILLA/Plug2/master/so.css",
    "rules": {
       "allowAutorespond": true,
       "allowAutowoot": true,
@@ -28,7 +28,7 @@
    },
    "images": {
       "background": "http://i.imgur.com/WTylHRy.png",
-      "playback": "http://i.imgur.com/ZGKtDDE.png",
+      "playback": "https://i.imgur.com/Ppylxfy.png",
       "admin": null,
       "ambassador": null,
       "host": null,
