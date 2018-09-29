@@ -1,22 +1,22 @@
 # Rock Wins Bot
 O Projeto RWplug foi elaborado à ser utilizado na Sala Rock Wins no site do plug.dj
-* Visite a nossa comunidade, aprecie um bom Rock n Roll -> https://plug.dj/rock-wins-10
+* Visite a nossa comunidade, aprecie uma boa música -> https://plug.dj/s%C3%B3-os-chegados
 
-[![facebook group](https://img.shields.io/badge/facebook-group-3b5998.svg?style=flat)](http://bit.ly/2cxnE6a)
+[![facebook group](https://img.shields.io/badge/facebook-group-3b5998.svg?style=flat)](https://goo.gl/NNYAYx)
 
 Como usar
 ------
-Favorite o seguinte código no seu navegador. Para rodar o bot clique no favorito na aba do Plug Dj. `javascript:(function(){$.getScript('https://rawgit.com/Kenan-plugdj/RWplug/master/bot.js');})();` 
+Favorite o seguinte código no seu navegador. Para rodar o bot clique no favorito na aba do Plug Dj. `javascript:(function(){$.getScript('https://rawgit.com/DSVILLA/Plug2/master/bot.js');})();` 
 
 
 Importante:
 ------
-Se isso não funcionar, vá para https://raw.githubusercontent.com/Kenan-plugdj/RWplug/master/bot.js copie e cole todo o conteúdo no seu console (acessível no chrome pressionando F12) na sala do Plug Dj.
+Se isso não funcionar, vá para https://rawgit.com/DSVILLA/Plug2/master/bot.js copie e cole todo o conteúdo no seu console (acessível no chrome pressionando F12) na sala do Plug Dj.
 
 
 Comandos
 ------
-Podem ser encontrados no [arquivo de comandos](https://github.com/Kenan-plugdj/RWplug/blob/master/commands.md)
+Podem ser encontrados no [arquivo de comandos](https://rawgit.com/DSVILLA/Plug2/master/commands.md)
 
 Desenvolvedores
 ----------
