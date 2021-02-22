@@ -20,11 +20,6 @@ Podem ser encontrados no [arquivo de comandos](https://rawgit.com/DSVILLA/Plug2/
 
 Desenvolvedores
 ----------
- - [Benzi](https://github.com/Benzi) __(Mantedor)__
-Email : [hi [at] benzi [dot] io](mailto:hi@benzi.io)
-
- - [Yemasthui](https://github.com/Yemasthui)  __(Criador)__
- 
  - [MarcosXJ6](https://github.com/DSVILLA) __(Modificador)__ 
 [Perfil PlugDj](https://plug.dj/@/marcosxj6)
 
@@ -36,20 +31,12 @@ Créditos
 - Henchman: Nunca soube que este empreendimento me daria um amigo também.
 
 
-|Idioma | Tradutor|
-|:------:|:---------:|
-|Português|[Motel Bible](https://github.com/motelbible)|
-
 __Eu gostaria de agradecer também todos que contribuiram em traduzir o bot no [centro de tradução](https://basicbot.oneskyapp.com/admin/collaborators)__
-
-
-###Direitos 
-Kenan o modificador do bot, customização para editar não esqueça de dar os créditos...
 
 
 ### Copyright
 
-Copyright &copy; 2014-2017 basicBot
+Copyright &copy; 2014-2021 basicBot
 
 Modifications (including forks) of the code to fit personal needs are allowed only for personal use and should refer back to the original source.
 This software is not for profit, any extension, or unauthorised person providing this software is not authorised to be in a position of any monetary gain from this use of this software. Any and all money gained under the use of the software (which includes donations) must be passed on to the original author.
